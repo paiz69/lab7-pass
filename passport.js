@@ -13,7 +13,7 @@ passport.use(
     new LocalStrategy({
         usernameField: 'username',
         passwordField: 'password',
-      //  ageField     : 'age'           /////////////////
+     
     }, async (username, password, cb) => {
         console.log('User: ', username, password)
         const index = db.checkExistingUser(username)
