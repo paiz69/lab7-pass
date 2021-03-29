@@ -60,8 +60,8 @@ router.post('/register',
         }
     })
 ////////////
-////////////
-////////////
+/////////
+
 
 router.get('/', (req, res, next) => {
     res.send('Respond without authentication');
