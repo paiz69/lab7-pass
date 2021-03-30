@@ -2,7 +2,7 @@ const bcrypt = require('bcrypt')
 
 let users = {
     users: [
-        { id: 1, username: 'warinthon', password: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MywidXNlcm5hbWUiOiJ3YXJpbmhvbiIsImVtYWlsIjoid2FyaW50aG9uQGdtYWlsLmNvbSIsImlhdCI6MTYxNzAwNDI5NywiZXhwIjoxNjE3MDkwNjk3fQ.buJlsDbz0gD15QH4gfZh4Aftd7jhhXHsEIsqlIFItpw',age: 20 , email: 'warinthon@gmail.com' },
+        { id: 1, username: 'paiz', password: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MywidXNlcm5hbWUiOiJwYWl6IiwiZW1haWwiOiJwYWl6QGdtYWlsLmNvbSIsImlhdCI6MTYxNzA5NzU5NCwiZXhwIjoxNjE3MTgzOTk0fQ.thbmvG_p_WRg5JkVtllcQRTZy7cMrbwfkEFqOLdvNPM',age: 21 , email: 'paiz@gmail.com' },
         { id: 2, username: 'john', password: '$2b$10$1Bu4tImM/Ms9rtU.8/n/COWpzUAGFB6YlsO5xZqFih1JUxafyFFXa',age: 20, email: 'john@gmail.com' },
     ]
 }

@@ -1,7 +1,7 @@
 {
   "name": "server1",
   "version": "1.0.0",
-  "description": "",
+  "description": "��#\u0000 \u0000L\u0000A\u0000B\u00007\u0000-\u00002\u00005\u00006\u00003\u0000\r\u0000 \u0000",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -19,5 +19,14 @@
     "passport-jwt": "^4.0.0",
     "passport-local": "^1.0.0",
     "swr": "^0.5.4"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/warinthon30/lab7-pass.git"
+  },
+  "bugs": {
+    "url": "https://github.com/warinthon30/lab7-pass/issues"
+  },
+  "homepage": "https://github.com/warinthon30/lab7-pass#readme"
 }
